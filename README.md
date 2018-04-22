@@ -20,3 +20,9 @@ Available at:
 https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/11/20/bored-of-mnist-lets-build-your-own-ocr-deep-learning-computer-vision-ai-using-microsoft-cntk-with-emnist-step-by-step-guide/
 
 
+If you need help on setting up CNTK, I have written some useful information:
+https://github.com/ICLMicrosoftProject/1.-SetUpCNTK
+
+And with below link you can quickly test out CNTK on your machine:
+https://github.com/ICLMicrosoftProject/2.-FirstQuickRunCNTK
+
