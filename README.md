@@ -13,11 +13,11 @@ My contributions so far are blogs on Microsoft Faculty Connection:
 
 1. Build your first deep neural network with Microsoft A.I. tool CNTK (Step by step guide)
 Available at: 
-https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/08/23/build-your-first-deep-neural-network-with-microsoft-a-i-tool-cntk-step-by-step-guide/
+https://techcommunity.microsoft.com/t5/educator-developer-blog/build-your-first-deep-neural-network-with-microsoft-a-i-tool/ba-p/379221
 
 2. Bored of MNIST? Let’s build your own OCR deep learning computer vision AI using Microsoft CNTK with EMNIST (Step by step guide)
 Available at: 
-https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/11/20/bored-of-mnist-lets-build-your-own-ocr-deep-learning-computer-vision-ai-using-microsoft-cntk-with-emnist-step-by-step-guide/
+https://techcommunity.microsoft.com/t5/educator-developer-blog/bored-of-mnist-let-8217-s-build-your-own-ocr-deep-learning/ba-p/379968
 
 
 If you need help on setting up CNTK, I have written some useful information:
