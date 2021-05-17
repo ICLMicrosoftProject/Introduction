@@ -1,13 +1,13 @@
 # Introduction 
 
-Hi I am Chih-Han Chen, Currently a PhD Student at Imperial College London. My research areas are mainly on Expert System, A.I. agent, informatics applications.
+Hi I am Chih-Han Chen, a PhD gratuated from Imperial College London. My research areas are mainly on Expert System, A.I. agent, informatics applications.
 My publication on expert system on IEEE.
 
 PERSON—Personalized Expert Recommendation System for Optimized Nutrition
 https://ieeexplore.ieee.org/abstract/document/8089390/
 
 
-I am also a Microsoft Student Partner. 
+I was also a Microsoft Student Partner. 
 
 My contributions so far are blogs on Microsoft Faculty Connection:
 
